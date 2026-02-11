@@ -1,3 +1,7 @@
+# Atividades Práticas Supervisionadas (APS) - 4º Semestre - 2025
+
+---
+
 ##  Sistema de Análise de Performance de Algoritmos de Ordenação
 
 ###  Projeto acadêmico em Java voltado à análise de desempenho e processamento de dados geográficos
